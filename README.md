@@ -44,6 +44,7 @@ Generative Engine Optimization (GEO) is the practice of improving a website's vi
 
 | Tool        | Website                |
 | ----------- | ---------------------- |
+| EchoRank    | https://echorank.com   |
 | GetCiteFlow | https://getciteflow.ai |
 | Profound    | https://profound.co    |
 | Scrunch AI  | https://scrunchai.com  |
@@ -53,6 +54,7 @@ Generative Engine Optimization (GEO) is the practice of improving a website's vi
 
 ## AI Visibility Tools
 
+* [EchoRank](https://echorank.com) - Free GEO checker and AI search visibility toolkit. Audits schema markup, llms.txt, AI crawler policies, and citation gaps across ChatGPT, Perplexity, and Gemini. Includes llms.txt Generator and AI Citation Gap Analyzer. No account required.
 * GetCiteFlow
 * Profound
 * Scrunch AI
