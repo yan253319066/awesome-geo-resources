@@ -74,6 +74,7 @@ Unlike traditional SEO that targets keyword rankings on Google, GEO focuses on:
 | Tool | Website | Description |
 |------|---------|-------------|
 | **GetCiteFlow** | [getciteflow.ai](https://www.getciteflow.ai) | 🔥 AI Visibility Scanner + Enterprise brand optimization |
+| EchoRank | [echorank.com](https://echorank.com) | Free GEO checker and AI search visibility toolkit with llms.txt generator & citation gap analysis |
 | Profound | [profound.co](https://profound.co) | AI search performance monitoring |
 | Scrunch AI | [scrunchai.com](https://scrunchai.com) | AI content optimization platform |
 | Peec AI | [peec.ai](https://peec.ai) | AI-driven SEO analytics |
