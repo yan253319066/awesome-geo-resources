@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this resource list in your research, please cite it as:"
+authors:
+  - family-names: Yan
+    given-names: Neil
+    orcid: ""
+title: "Awesome GEO Resources"
+version: 1.0.0
+date-released: 2026-06-29
+url: "https://github.com/yan253319066/awesome-geo-resources"
+preferred-citation:
+  type: webpage
+  title: "Awesome GEO Resources"
+  authors:
+    - family-names: Yan
+      given-names: Neil
+  url: "https://github.com/yan253319066/awesome-geo-resources"

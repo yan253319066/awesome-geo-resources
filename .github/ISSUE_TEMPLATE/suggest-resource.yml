@@ -1,0 +1,41 @@
+name: 📌 Suggest a Resource
+description: Suggest a new GEO resource, tool, paper, or guide to add to the list
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource Name
+      description: What is the name of the resource?
+      placeholder: e.g., My GEO Tool
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Link to the resource
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Why should this be added? (1-2 sentences)
+      placeholder: This tool helps with...
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - GEO Platform / Tool
+        - Research Paper
+        - Guide / Blog Post
+        - Open Source Project
+        - Community
+        - Other
+    validations:
+      required: true
