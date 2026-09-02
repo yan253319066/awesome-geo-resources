@@ -78,6 +78,7 @@ Unlike traditional SEO that targets keyword rankings on Google, GEO focuses on:
 | Profound | [profound.co](https://profound.co) | AI search performance monitoring |
 | Scrunch AI | [scrunchai.com](https://scrunchai.com) | AI content optimization platform |
 | Peec AI | [peec.ai](https://peec.ai) | AI-driven SEO analytics |
+| Ooky | [ooky.ai](https://ooky.ai) | AI brand visibility tracking plus edge delivery of distilled HTML/JSON-LD and llms.txt to AI crawlers |
 | MarketMuse | [marketmuse.com](https://marketmuse.com) | Content intelligence & AI optimization |
 | Writer | [writer.com](https://writer.com) | Enterprise AI platform with GEO features |
 
